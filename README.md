@@ -41,13 +41,6 @@ The goal is to train a dense embedding model to learn meaningful embeddings from
 
 
 
-
-
-
-
-
-
-
 ![2](https://github.com/user-attachments/assets/c96d60aa-c2cc-41e8-b767-9af8345145a0)
 
 
