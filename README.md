@@ -61,7 +61,8 @@ The goal is to train a dense embedding model to learn meaningful embeddings from
 ---
 
 
-![1](https://github.com/user-attachments/assets/4365fad9-ad05-42b7-8244-c4ee6dab92f9)
+
+![1-UhxVALjls-transformed](https://github.com/user-attachments/assets/d30baf0d-b8ed-4cc7-8e21-c8a2dda553d9)
 
 
 
@@ -70,9 +71,7 @@ The goal is to train a dense embedding model to learn meaningful embeddings from
 
 
 
-![2](https://github.com/user-attachments/assets/c96d60aa-c2cc-41e8-b767-9af8345145a0)
 
 
-
-
+![2-wgbEcgvIE-transformed](https://github.com/user-attachments/assets/afd74ca3-be14-4063-88c1-6164b658d413)
 
