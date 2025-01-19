@@ -17,11 +17,11 @@ The goal is to train a dense embedding model to learn meaningful embeddings from
 
   ## Steps
   
-  ### 1. Data Preparation
+### 1. Data Preparation
      - Data Set:10 Crawled Pages (20-25 lines each)
      - Vocabulary Size: 1030 words
      - Embedding Dimension: 30
-  ### 2. Pre-Processing
+### 2. Pre-Processing
         - Lower-Casing
         - Removing Punctuation
         - Creating Lemmas
